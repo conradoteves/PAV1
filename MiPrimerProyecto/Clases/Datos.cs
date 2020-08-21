@@ -10,6 +10,7 @@ namespace ProyectoBugs.Clases
 {
     class Datos
     {
-
+        private string algo;
+        //Puse un atributo
     }
 }
