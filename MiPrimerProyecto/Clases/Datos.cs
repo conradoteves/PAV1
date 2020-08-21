@@ -12,5 +12,6 @@ namespace ProyectoBugs.Clases
     {
         private string algo;
         //Puse un atributo
+        private int edad;
     }
 }
