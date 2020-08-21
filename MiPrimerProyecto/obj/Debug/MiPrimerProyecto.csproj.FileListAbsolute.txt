@@ -1,0 +1,10 @@
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\conra\Documents\UTN\PAV1\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmPrincipal.resources
